@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API Gateway using AWS SAM <!-- omit in toc -->
 
 This repository contains a Books API powered by Amazon API Gateway, AWS Lambda and Amazon DynamoDB. Involved resources are defined and provisioned using AWS SAM.
@@ -224,3 +225,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License <!-- omit in toc -->
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+=======
+# L00179092_WebApp
+>>>>>>> 144e38b5d3f65e2570e659a6879793662e49a703
