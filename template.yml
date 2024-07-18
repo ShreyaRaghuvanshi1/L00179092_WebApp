@@ -17,7 +17,7 @@ Globals:
   Api:
     OpenApiVersion: 3.0.1 # to avoid default stage creation
   Function:
-    Runtime: nodejs14.x
+    Runtime: nodejs12.x
     MemorySize: 128
     Timeout: 5
     Tracing: Active
