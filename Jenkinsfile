@@ -3,7 +3,7 @@ pipeline {
 
     tools{
         nodejs 'node'
-    }
+    } 
 
     parameters {
         choice(name: 'DEPLOY_STAGE', choices: ['staging', 'production'], description: 'Select the deployment stage')
